@@ -1,3 +1,21 @@
 pandas
 numpy
+bentoml
+joblib
+tqdm
+pip-chill
+wincertstore
+dvc
+mlflow
+ipykernel
+seaborn
+
+# Development tools
+pytest==7.1.3
+tox==3.25.1
+black==22.8.0
+flake8==5.0.4
+mypy==0.971
+
+# Install package from local source
 -e .
